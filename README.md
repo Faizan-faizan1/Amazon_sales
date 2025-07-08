@@ -9,11 +9,11 @@ This project explores and analyzes Amazon sales data using Python (Pandas, Seabo
 - **Time Period**: Jan 2019 – Dec 2020
 - **Columns**:
   
-- Order ID, Order Date, Ship Date, Ship Mode,
-- Customer ID, Customer Name, Segment,
-- Country, City, State, Region,
-- Product ID, Category, Sub-Category, Product Name,
-- Sales, Quantity, Profit, Returns, Payment Mode.
+    - Order ID, Order Date, Ship Date, Ship Mode,
+    - Customer ID, Customer Name, Segment,
+    - Country, City, State, Region,
+    - Product ID, Category, Sub-Category, Product Name,
+    - Sales, Quantity, Profit, Returns, Payment Mode.
 
 ---
 
