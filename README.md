@@ -23,7 +23,7 @@ This project explores and analyzes Amazon sales data using Python (Pandas, Seabo
 |-------------|-------------|
 | `notebooks/` | Jupyter Notebooks with Python scripts for data cleaning for cleaning and EDA 
 | `dashboards/` | Power BI dashboard files (.pbix), Images of dashboards, public link to access the interactive dashboard |
-| `EDA_visuals/' | Visuals of trends created using matplotlib,seaborn |
+| `EDA_visuals/` | Visuals of trends created using matplotlib,seaborn |
 | `README.md` | Project overview |
 | `requirements.txt` | Python libraries used |
 
